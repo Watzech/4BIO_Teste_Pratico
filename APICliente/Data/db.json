@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 3,
+    "Nome": "Carlos Souza",
+    "Email": "carlos.souza@example.com",
+    "CPF": "456.123.789-10",
+    "RG": "45.678.123-0",
+    "Contatos": [
+      {
+        "Id": 5,
+        "Tipo": "Celular",
+        "DDD": 31,
+        "Telefone": 912345678.0
+      }
+    ],
+    "Enderecos": [
+      {
+        "Id": 4,
+        "Tipo": "Preferencial",
+        "CEP": "22334-556",
+        "Logradouro": "Avenida Afonso Pena",
+        "Numero": 500,
+        "Bairro": "Centro",
+        "Complemento": "Bloco B",
+        "Cidade": "Belo Horizonte",
+        "Estado": "MG",
+        "Referencia": "Ao lado do parque municipal"
+      },
+      {
+        "Id": 5,
+        "Tipo": "Cobrança",
+        "CEP": "66554-321",
+        "Logradouro": "Rua Amazonas",
+        "Numero": 120,
+        "Bairro": "Barro Preto",
+        "Complemento": "Sala 3",
+        "Cidade": "Belo Horizonte",
+        "Estado": "MG",
+        "Referencia": ""
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Nome": "Henrique",
+    "Email": "henrique@gmail.com",
+    "CPF": "52520767820",
+    "RG": "562775869",
+    "Contatos": null,
+    "Enderecos": null
+  }
+]
